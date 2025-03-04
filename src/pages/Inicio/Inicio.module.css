@@ -1,4 +1,11 @@
 .container {
-    display: flex;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+    gap: 20px; /* Space between the cards */
+    max-width: 1500px;
+    margin: auto;
+
+}
+.titulo {
+    text-align: center;
 }

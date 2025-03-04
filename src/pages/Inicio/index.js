@@ -11,13 +11,12 @@ function Inicio() {
         <>
             <Cabecalho></Cabecalho>
             <Bannner imagem="Home"></Bannner>
-            <Titulo><h1>Um lugar para guardar seus videos e filmes</h1></Titulo>
+            <Titulo className='titulo'><h1>Um lugar para guardar seus videos e filmes</h1></Titulo>
             <section className={styles.container}>
                 {videos.map((video) => {
                     return <Card {...video} key={video.id}></Card>
                 })}
             </section>
-            {/* <Card id='1' titulo='Gato bonifácio' capa='https://thecatapi.com/api/images/get?format-src&type=png' /> */}
             <Rodape></Rodape>
         </>
     )

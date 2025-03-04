@@ -1,26 +1,50 @@
 [
     {
         "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "titulo": "(IV) Star Wars: Uma Nova Esperança",
+        "capa": "https://http2.mlstatic.com/D_NQ_NP_2X_685415-MLB44053826171_112020-F.webp",
+        "link": "https://www.youtube.com/watch?v=vZ734NWnAHA&pp=ygUUdHJhaWxlciBzdGFyIHdhcnMgSVY%3D"
     },
     {
         "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        "titulo": "(V) Star Wars: O Império Contra-Ataca",
+        "capa": "https://http2.mlstatic.com/D_NQ_NP_944614-MLB27257298772_042018-O.webp",
+        "link": "https://www.youtube.com/watch?v=JNwNXF9Y6kY&pp=ygUTdHJhaWxlciBzdGFyIHdhcnMgVg%3D%3D"
     },
     {
         "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        "titulo": "(VI) Star Wars: O Retorno dos Jedi",
+        "capa": "https://static.wikia.nocookie.net/filmes/images/b/ba/Star-Wars-Epis%C3%B3dio-VI-O-Retorno-do-Jedi.jpg",
+        "link": "https://www.youtube.com/watch?v=7L8p7_SLzvU&pp=ygUUdHJhaWxlciBzdGFyIHdhcnMgVkk%3D"
     },
     {
         "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        "titulo": "(I) Star Wars: A Ameaça Fantasma",
+        "capa": "https://static.wikia.nocookie.net/ptstarwars/images/0/05/Episodio1.png",
+        "link": "https://www.youtube.com/watch?v=bD7bpG-zDJQ&pp=ygUTdHJhaWxlciBzdGFyIHdhcnMgSQ%3D%3D"
+    },
+    {
+        "id": 5,
+        "titulo": "(II) Star Wars: O Ataque dos Clones",
+        "capa": "https://static.wikia.nocookie.net/ptstarwars/images/4/41/Ataque_dos_clones_p%C3%B4ster.png",
+        "link": "https://www.youtube.com/watch?v=gYbW1F_c9eM&pp=ygUUdHJhaWxlciBzdGFyIHdhcnMgSUk%3D"
+    },
+    {
+        "id": 6,
+        "titulo": "(III) Star Wars: A Vingança dos Sith",
+        "capa": "https://media.fstatic.com/vJsV1_jrDEUOhVpUiPfXp7ftGBc=/210x312/smart/filters:format(webp)/media/movies/covers/2011/06/d227410cd858fcb064ee93169ed40eb6.jpg",
+        "link": "https://www.youtube.com/watch?v=5UnjrG_N8hU&pp=ygUVdHJhaWxlciBzdGFyIHdhcnMgSUlJ"
+    },
+    {
+        "id": 7,
+        "titulo": "(VII) Star Wars: O Despertar da Força",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Starwars_06.jpg/250px-Starwars_06.jpg",
+        "link": "https://www.youtube.com/watch?v=sGbxmsDFVnE&pp=ygURdHJhaWxlciBzdGFyIHdhcnM%3D"
+    },
+    {
+        "id": 8,
+        "titulo": "(VIII)Star Wars: Os Ultimos Jedi",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Star_Wars_The_Last_Jedi.png/250px-Star_Wars_The_Last_Jedi.png",
+        "link": "https://www.youtube.com/watch?v=Q0CbN8sfihY&pp=ygUWdHJhaWxlciBzdGFyIHdhcnMgVklJSQ%3D%3D"
     }
 ]

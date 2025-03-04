@@ -6,11 +6,16 @@ import CabecalhoLink from "components/CabecalhoLink";
 function cabecalho() {
     return (
         <header className={styles.cabecalho}>
-            <Link to="./">  <img src={logo} alt="Logo Cinetag"/>    </Link>
+            <Link to="./">  <img src={logo} alt="Logo Cinetag" /> </Link>
             <nav>
-                <CabecalhoLink url="./">Home</CabecalhoLink>
-                <CabecalhoLink url="./Favoritos">Favoritos</CabecalhoLink>
+                <CabecalhoLink url="https://www.youtube.com/watch?v=7L8p7_SLzvU&pp=ygUUdHJhaWxlciBzdGFyIHdhcnMgVkk%3D" >
+                    Home
+                </CabecalhoLink>
+                <CabecalhoLink url="./Favoritos">
+                    Favoritos
+                </CabecalhoLink>
             </nav>
+
         </header>
     );
 }
