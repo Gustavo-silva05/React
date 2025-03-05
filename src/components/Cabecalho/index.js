@@ -1,23 +1,24 @@
 import { Link } from "react-router-dom";
-import styles from './Cabecalho.module.css'
-import logo from './Logo-cinetag-branco 1.png'
+import logo from './logo.png';
+import styles from './Cabecalho.module.css';
 import CabecalhoLink from "components/CabecalhoLink";
 
-function cabecalho() {
+function Cabecalho() {
     return (
         <header className={styles.cabecalho}>
-            <Link to="./">  <img src={logo} alt="Logo Cinetag" /> </Link>
+            <Link to="./">
+                <img src={logo} alt="Logo do cinetag"></img>
+            </Link>
             <nav>
-                <CabecalhoLink url="https://www.youtube.com/watch?v=7L8p7_SLzvU&pp=ygUUdHJhaWxlciBzdGFyIHdhcnMgVkk%3D" >
+                <CabecalhoLink url="./">
                     Home
                 </CabecalhoLink>
                 <CabecalhoLink url="./Favoritos">
                     Favoritos
                 </CabecalhoLink>
             </nav>
-
         </header>
-    );
+    )
 }
 
-export default cabecalho;
+export default Cabecalho;
