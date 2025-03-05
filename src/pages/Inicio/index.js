@@ -11,11 +11,11 @@ function Inicio() {
             <Titulo>
                 <h1>Um lugar para guardar seus vídeos e filmes!</h1>
             </Titulo>
-            <section className={styles.container}>
+            <div className={styles.container}>
                 {videos.map((video) => {
                     return <Card {...video} key={video.id} />
                 })}
-            </section>
+            </div>
         </>
     )
 }
