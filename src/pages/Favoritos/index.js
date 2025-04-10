@@ -3,11 +3,13 @@ import Card from 'components/Card';
 import Titulo from 'components/Titulo';
 import { useFavoritoContext } from 'contextos/Favoritos';
 import styles from './Favoritos.module.css';
+import Cabecalho from 'components/Cabecalho';
 
 function Favoritos() {
     const { favorito } = useFavoritoContext();
     return (
         <>
+            <Cabecalho/>
             <Banner imagem='Favorito.jpeg' />
             <Titulo>
                 <h1>Meus Favoritos</h1>

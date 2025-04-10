@@ -14,19 +14,11 @@ export default function Player() {
             <Banner imagem={"Player.jpg"}></Banner>
             <Titulo>
                 <h1>
-                    {video.titulo}
+                    {`${video.titulo} (Trailer)`} 
                 </h1>
             </Titulo>
             <section className={styles.container}>
-                <iframe
-                    width= "100%"
-                    height="100%"
-                    src={video.link}
-                    title={video.titulo}
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
-                    >
-                </iframe>
+                <iframe width="100%" height="100%" src={video.trailer} title={video.titulo} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </section>
         </>
     );

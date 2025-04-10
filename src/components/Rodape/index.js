@@ -3,7 +3,10 @@ import styles from './Rodape.module.css';
 function Rodape() {
     return (
         <footer className={styles.rodape}>
-            <h2>Desenvolvido por Alura.</h2>
+            <section>
+                <h2>Desenvolvido por Gustavo Silva.</h2>
+                <h4>Todo conteúdo é para testes e aplicação de conceitos</h4>
+            </section>
         </footer>
     )
 }

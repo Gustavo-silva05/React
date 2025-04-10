@@ -8,4 +8,12 @@
     font-weight: 400;
     font-size: 18px;
     color: var(--branco);
+    text-align: center;
+}
+
+.rodape h4{
+    font-weight: 200;
+    font-size: 16px;
+    text-align: center;
+    color: white;
 }

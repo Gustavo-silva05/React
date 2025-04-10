@@ -3,48 +3,72 @@
         "id": 1,
         "titulo": "(IV) Star Wars: Uma Nova Esperança",
         "capa": "https://http2.mlstatic.com/D_NQ_NP_2X_685415-MLB44053826171_112020-F.webp",
-        "link": "https://www.youtube.com/watch?v=vZ734NWnAHA&pp=ygUUdHJhaWxlciBzdGFyIHdhcnMgSVY%3D"
+        "trailer": "https://www.youtube.com/embed/vZ734NWnAHA?si=7xyImT4gPhGxYAta"
     },
     {
         "id": 2,
         "titulo": "(V) Star Wars: O Império Contra-Ataca",
         "capa": "https://http2.mlstatic.com/D_NQ_NP_944614-MLB27257298772_042018-O.webp",
-        "link": "https://www.youtube.com/watch?v=JNwNXF9Y6kY&pp=ygUTdHJhaWxlciBzdGFyIHdhcnMgVg%3D%3D"
+        "trailer": "https://www.youtube.com/embed/JNwNXF9Y6kY?si=C-flMxslaSJVP_Jb"
     },
     {
         "id": 3,
         "titulo": "(VI) Star Wars: O Retorno dos Jedi",
         "capa": "https://static.wikia.nocookie.net/filmes/images/b/ba/Star-Wars-Epis%C3%B3dio-VI-O-Retorno-do-Jedi.jpg",
-        "link": "https://www.youtube.com/watch?v=7L8p7_SLzvU&pp=ygUUdHJhaWxlciBzdGFyIHdhcnMgVkk%3D"
+        "trailer": "https://www.youtube.com/embed/7L8p7_SLzvU?si=FZOzk1TCJMShI0ZM"
     },
     {
         "id": 4,
         "titulo": "(I) Star Wars: A Ameaça Fantasma",
         "capa": "https://static.wikia.nocookie.net/ptstarwars/images/0/05/Episodio1.png",
-        "link": "https://www.youtube.com/watch?v=bD7bpG-zDJQ&pp=ygUTdHJhaWxlciBzdGFyIHdhcnMgSQ%3D%3D"
+        "trailer": "https://www.youtube.com/embed/bD7bpG-zDJQ?si=KXw6-CBXlCX8HJ4i"
     },
     {
         "id": 5,
         "titulo": "(II) Star Wars: O Ataque dos Clones",
         "capa": "https://static.wikia.nocookie.net/ptstarwars/images/4/41/Ataque_dos_clones_p%C3%B4ster.png",
-        "link": "https://www.youtube.com/watch?v=gYbW1F_c9eM&pp=ygUUdHJhaWxlciBzdGFyIHdhcnMgSUk%3D"
+        "trailer": "https://www.youtube.com/embed/gYbW1F_c9eM?si=URncta5DbmfhlrG0"
     },
     {
         "id": 6,
         "titulo": "(III) Star Wars: A Vingança dos Sith",
         "capa": "https://media.fstatic.com/vJsV1_jrDEUOhVpUiPfXp7ftGBc=/210x312/smart/filters:format(webp)/media/movies/covers/2011/06/d227410cd858fcb064ee93169ed40eb6.jpg",
-        "link": "https://www.youtube.com/watch?v=5UnjrG_N8hU&pp=ygUVdHJhaWxlciBzdGFyIHdhcnMgSUlJ"
+        "trailer": "https://www.youtube.com/embed/5UnjrG_N8hU?si=UoGQfzPeoBTAdH50"
     },
     {
         "id": 7,
         "titulo": "(VII) Star Wars: O Despertar da Força",
         "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Starwars_06.jpg/250px-Starwars_06.jpg",
-        "link": "https://www.youtube.com/watch?v=sGbxmsDFVnE&pp=ygURdHJhaWxlciBzdGFyIHdhcnM%3D"
+        "trailer": "https://www.youtube.com/embed/sGbxmsDFVnE?si=cT4KLenxHx0xYFCz"
     },
     {
         "id": 8,
-        "titulo": "(VIII)Star Wars: Os Ultimos Jedi",
+        "titulo": "(VIII) Star Wars: Os Ultimos Jedi",
         "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Star_Wars_The_Last_Jedi.png/250px-Star_Wars_The_Last_Jedi.png",
-        "link": "https://www.youtube.com/watch?v=Q0CbN8sfihY&pp=ygUWdHJhaWxlciBzdGFyIHdhcnMgVklJSQ%3D%3D"
+        "trailer": "https://www.youtube.com/embed/Q0CbN8sfihY?si=VxzcaYWvIiqo9RwB"
+    },
+    {
+        "id": 9,
+        "titulo": "(IX) Star Wars: Ascenção Skywalker",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/0/08/Star_Wars_The_Rise_of_Skywalker.jpg",
+        "trailer": "https://www.youtube.com/embed/i3X-xQIjqws?si=MhGNmpelRuA48BXc"
+    },
+    {
+        "id": 10,
+        "titulo": "Star Wars: Rogue One",
+        "capa": "https://m.media-amazon.com/images/I/9161kCuZ7JL._SL1500_.jpg",
+        "trailer": "https://www.youtube.com/embed/frdj1zb9sMY?si=3r_QfQhZGBCyVt7q"
+    },
+    {
+        "id": 11,
+        "titulo": "Han Solo : Uma história Star Wars ",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/5/5c/Solo_A_Star_Wars_Story.jpg",
+        "trailer": "https://www.youtube.com/embed/EQpr5HXTvmg?si=u_PVvh-VBDzgA1zw"
+    },
+    {
+        "id": 12,
+        "titulo": "Guerras Clônicas",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/7/72/Star_wars_the_clone_wars.jpg",
+        "trailer": "https://www.youtube.com/embed/6pRqU87HBuI?si=zg5IJGPtrAQw5geJ"
     }
 ]
